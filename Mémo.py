@@ -1,6 +1,6 @@
 9
 # nombre entier, 'int'
-9.11
+9.111
 # nombre décimal, 'float'
 
 1 + 2 
